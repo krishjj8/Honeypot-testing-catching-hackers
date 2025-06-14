@@ -37,7 +37,9 @@ Here’s what I captured during the setup and testing:
 - Real-time logging of their activity
 - Session logs saved for analysis
 
-(*Screenshots are included in this repo.*)
+![HOW IT STARTS](START.png)
+![TRYING TO HACK](Invading.png)
+![Honeypot Protects](Honeypot.png)
 
 ---
 
