@@ -36,9 +36,12 @@ Here’s what I captured during the setup and testing:
 - A fake attacker trying to SSH in
 - Real-time logging of their activity
 - Session logs saved for analysis
-
+- 
+### HOW IT STARTS
 ![HOW IT STARTS](START.png)
+### TRYING TO HACK
 ![TRYING TO HACK](Invading.png)
+### HONEYPOT PROTECTS
 ![Honeypot Protects](Honeypot.png)
 
 ---
