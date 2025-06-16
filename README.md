@@ -4,7 +4,7 @@ Catching hackers with Honeypot
 
 # SSH Honeypot using Cowrie on Fedora Linux
 
-This project is a simple but effective SSH honeypot built using **Cowrie** on a Fedora Linux system. It simulates a fake SSH server to catch and record unauthorized login attempts. The goal was to learn how attackers behave, how honeypots work, and how to build one safely on my own system.
+This effective SSH honeypot built using **Cowrie** on a Fedora Linux system. It simulates a fake SSH server to catch and record unauthorized login attempts. The goal was to learn how attackers behave, how honeypots work, and how to build one safely on my own system.
 
 ---
 
